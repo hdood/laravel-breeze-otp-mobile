@@ -1,0 +1,1 @@
+# Laravel Breeze Sanctum with OTP email verification starter
